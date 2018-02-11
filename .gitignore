@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/numeros50000_bubble_mejorado.txt
+/numeros50000_bubble_normal.txt
+/numeros50000_quick_sort_mediana.txt
+/numeros50000_quick_sort_medio.txt
+/numeros50000_quick_sort_random.txt
+/numeros50000_selection_mejorado.txt
+/numeros50000_selection_normal.txt
+/numeros50000_shell_sort.txt

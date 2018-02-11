@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1518295718 source:c:\c_projects\busqueda\bm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bm.h"
+
+1518295718 source:c:\c_projects\busqueda\directa.c
+	<string.h>
+	"directa.h"
+
+1518295666 c:\c_projects\busqueda\directa.h
+
+1518293048 source:c:\c_projects\busqueda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"directa.h"
+	"kmp.h"
+	"bm.h"
+	"perf.h"
+
+1518295666 c:\c_projects\busqueda\bm.h
+
+1518295718 source:c:\c_projects\busqueda\kmp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"kmp.h"
+
+1518295666 c:\c_projects\busqueda\kmp.h
+
+1518286892 c:\c_projects\busqueda\perf.h
+
+1518286892 source:c:\c_projects\busqueda\perf.c
+	<windows.h>
+	"perf.h"
+
